@@ -6,3 +6,10 @@ contextMenu-extension: Showcase of a JavaScript-based context menu implementatio
 
 ![Screenshot](screenshot-final.gif)
 
+## Demo
+
+https://valiyev000.github.io/contextMenu-extension/
+
+## How to install
+
+Download contextMenu-extension, then add(copy/paste) and run with chrome>sources>snippets
